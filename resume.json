@@ -1,19 +1,19 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Narendra Regar",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
 		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
-		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
-			"countryCode": "India",
-			"region": "---State Name---"
-		},
+		// "phone": "---Enter Mobile Number---",
+		// "website": "---Enter Link of website(if any) ---",
+		// "summary": "---Tell Something about yourself ---",
+		// "location": {
+		// 	"address": "---",
+		// 	"postalCode": "---",
+		// 	"city": "---",
+		// 	"countryCode": "India",
+		// 	"region": "---State Name---"
+		// },
 		"profiles": [{
 				"network": "Twitter",
 				"username": "handle",
