@@ -54,17 +54,17 @@
 	// 	"summary": "Description...",
 	// 	"highlights": []
 	// }],
-	// "education": [{
-	// 	"institution": "Indian Institute of Information technology,kota",
-	// 	"area": "Engineering",
-	// 	"studyType": "Bachelor (hons)",
-	// 	"startDate": "2018-04-08 //Date",
-	// 	"endDate": "----",
-	// 	"gpa": "---Add your CGPA ---",
-	// 	"courses": [
-	// 		"Computer Science & Engineering"
-	// 	]
-	// }],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}]
 	// "awards": [{
 	// 	"title": "--Title---",
 	// 	"awarder": "---Receiverd By ---",
